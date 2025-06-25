@@ -1,0 +1,9 @@
+langchain 
+langchain-community 
+llama-index
+sentence-transformers
+ollama
+chromadb
+praw
+python-dotenv
+streamlit
